@@ -1,0 +1,2 @@
+model_checkpoint_path: "F:\\text_rnn_attention_ASK\\checkpoints_selfw2v\\textrnn\\best_validation"
+all_model_checkpoint_paths: "F:\\text_rnn_attention_ASK\\checkpoints_selfw2v\\textrnn\\best_validation"

@@ -1,0 +1,448 @@
+166717003	Serum creatinine raised	CPK elevated
+166717003	Serum creatinine raised	elevated Creatinine
+166717003	Serum creatinine raised	CPK was elevated
+10601006	Pain in lower limb	shin pain
+10601006	Pain in lower limb	pain in both legs
+10601006	Pain in lower limb	lower legs hurt
+10601006	Pain in lower limb	Legs painful to the touch
+10601006	Pain in lower limb	legs are killing me
+10601006	Pain in lower limb	legs are sore
+10601006	Pain in lower limb	debillitating leg pain
+10601006	Pain in lower limb	sore legs
+247592009	Poor short-term memory	short term memory problems
+247592009	Poor short-term memory	Terrible short term memory problems
+247592009	Poor short-term memory	short term memory is terrible
+247592009	Poor short-term memory	short-term memory loss
+271681002	Stomach ache	stomache aches
+271681002	Stomach ache	STOMACH PAIN
+271681002	Stomach ache	Stomach pains
+271681002	Stomach ache	stomach pains
+26079004	Tremor	tremors although the body
+26079004	Tremor	right hand tremor
+26079004	Tremor	hand tremors
+386705008	Lightheadedness	light-headedness (hurt to hold my head up or turn my head from side to side and that made driving real difficult)
+386705008	Lightheadedness	light head
+386705008	Lightheadedness	light-headedness feeling
+309774006	Weakness of limb	arm weakness
+309774006	Weakness of limb	weakness in his knees
+309774006	Weakness of limb	weakness in my arms
+309774006	Weakness of limb	Weakness in Leg Muscles
+309774006	Weakness of limb	dibilitating problem with both of my arms
+309774006	Weakness of limb	weakness in upper arm muscles
+309774006	Weakness of limb	muscle weakness in ankle
+309774006	Weakness of limb	weakness in thighs
+90673000	Burning sensation	Burning
+90673000	Burning sensation	throbbing,burning sensation
+90673000	Burning sensation	burning
+90673000	Burning sensation	Burning sensations in shoulders
+30989003	Knee pain	joint pain in knee
+30989003	Knee pain	Knee pain
+30989003	Knee pain	Pain in knees
+30989003	Knee pain	knee hurt
+30989003	Knee pain	knees sore
+30989003	Knee pain	Right knee always sore
+30989003	Knee pain	right knee is so painful
+3384011000036100	Arthrotec	arthrotec 50
+3384011000036100	Arthrotec	arthrotec 75
+3384011000036100	Arthrotec	Arthrotec 75
+13791008	Asthenia	Extreme fatigue
+13791008	Asthenia	Asthenia
+13791008	Asthenia	extreme weakness
+13791008	Asthenia	so weak
+13791008	Asthenia	EXTREMELY fatigued
+13791008	Asthenia	felt very weak
+13791008	Asthenia	EXTREMELY FATIGUED
+13791008	Asthenia	weakness
+76948002	Severe pain	horrible pain in both shoulders
+76948002	Severe pain	ache was extreme, almost unbearable
+76948002	Severe pain	Severe joint pain in the knees
+76948002	Severe pain	left leg, below the knee, experienced intense pain
+76948002	Severe pain	horrible pain in left knee
+76948002	Severe pain	Severe pain in both thighs
+76948002	Severe pain	extreme leg pain
+76948002	Severe pain	extreme pain in neck
+76948002	Severe pain	severe pains
+76948002	Severe pain	Extreme back pain
+76948002	Severe pain	severe knee pain
+76948002	Severe pain	Pain is so intense
+76948002	Severe pain	imence pain in calf
+76948002	Severe pain	severe pain in my feet
+76948002	Severe pain	EXTREME muscle pains
+76948002	Severe pain	severe pain
+76948002	Severe pain	Severe leg pain
+76948002	Severe pain	severe muscle pain in hips
+76948002	Severe pain	extreme pain in legs
+76948002	Severe pain	extreme muscle discomfort
+76948002	Severe pain	severe pain in legs
+76948002	Severe pain	intense pain
+76948002	Severe pain	intense, horrid pain
+76948002	Severe pain	exteem pain in my ankle
+76948002	Severe pain	Sever muscle pain
+76948002	Severe pain	severe back pain
+76948002	Severe pain	Severe neck pain
+76948002	Severe pain	extremly bad pains in arms
+76948002	Severe pain	Pain was worse
+76948002	Severe pain	horrible stomach pain
+76948002	Severe pain	extreme pain in back
+25064002	Headache	bad headache
+25064002	Headache	extreme headaches
+25064002	Headache	Severe headache
+25064002	Headache	mild headache
+25064002	Headache	blinding headaches
+25064002	Headache	headace
+25064002	Headache	severe headaches
+26544005	Muscle weakness	total muscel weakness
+26544005	Muscle weakness	mussel weakness
+26544005	Muscle weakness	acute weakness in the muscles of whole body
+26544005	Muscle weakness	weakness in muscles
+26544005	Muscle weakness	lost all strength
+26544005	Muscle weakness	when I went to sit down instead of sitng normaly I would almost fall down in the chair no control no strength, upon getting up I had to hold on to something to get up
+26544005	Muscle weakness	went down muscles
+26544005	Muscle weakness	loss of support in all muscels in particular calf and leg
+60238002	Muscle twitch	Muscle twitch
+60238002	Muscle twitch	muscle twitching
+60238002	Muscle twitch	Muscle twitching
+60238002	Muscle twitch	Muscle twitching on bottom of feet
+81680005	Neck pain	neck pain
+81680005	Neck pain	neck muscle pain
+81680005	Neck pain	Neck pain
+81680005	Neck pain	pain neck
+81680005	Neck pain	MUSCLE PAIN IN NECK
+418290006	Itching	itchy hands
+418290006	Itching	constant itching
+418290006	Itching	Itching
+267052005	Flatulence/wind	Severe gas
+267052005	Flatulence/wind	Flatulance
+267052005	Flatulence/wind	little gas
+426206001	Constant pain	constint shoulder pain
+426206001	Constant pain	deep constant pain
+426206001	Constant pain	Intense and constant pain in legs
+166830008	Serum cholesterol raised	elevated levels of cholesterol
+166830008	Serum cholesterol raised	cholesterol was very high
+166830008	Serum cholesterol raised	cholesterol climbed
+57676002	Arthralgia	pain in my joints
+57676002	Arthralgia	joint discomfort
+57676002	Arthralgia	painful joints
+57676002	Arthralgia	JOINTS HURT
+57676002	Arthralgia	feet joint pain similar to arthritis
+57676002	Arthralgia	Arthritic type pain in all joints
+57676002	Arthralgia	painful inflammed joints
+57676002	Arthralgia	pain in every joint
+57676002	Arthralgia	finger joint pain similar to arthritis
+77424011000036100	ubidecarenone	CO Q 10
+77424011000036100	ubidecarenone	Q10
+77424011000036100	ubidecarenone	cq10
+77424011000036100	ubidecarenone	ubidecarenone
+77424011000036100	ubidecarenone	Co Q 10
+62315008	Diarrhoea	diarrhea
+62315008	Diarrhoea	bathroom with the runs
+62315008	Diarrhoea	brown water
+62315008	Diarrhoea	diarrhoea
+62315008	Diarrhoea	Diarhea
+62315008	Diarrhoea	Diarrhoea
+24184005	Finding of increased blood pressure	blood pressure slightly elevated
+24184005	Finding of increased blood pressure	high BP
+24184005	Finding of increased blood pressure	Increase in blood pressure
+84229001	Fatigue	feeling exausted
+84229001	Fatigue	feelings of fatigue
+84229001	Fatigue	Fatigued
+84229001	Fatigue	EXTREME TIREDNESS
+84229001	Fatigue	much fatigue
+84229001	Fatigue	Constant fatigue
+129565002	Myopathy	severe myopathy
+129565002	Myopathy	permanent damage to my muscles
+129565002	Myopathy	muscle damage
+129565002	Myopathy	Myopathy
+129565002	Myopathy	muscle dmaage
+53057004	Hand pain	Hands sore
+53057004	Hand pain	pain in hand
+53057004	Hand pain	PAIN IN MY HANDS
+22253000	Pain	painfull
+22253000	Pain	ache
+22253000	Pain	pressure pain
+22253000	Pain	pain pain pain
+22253000	Pain	pain in every muscle
+22253000	Pain	sore
+22253000	Pain	aches
+49218002	Hip pain	pains in hips
+49218002	Hip pain	Hip pain
+49218002	Hip pain	Terrible pain in hips
+49218002	Hip pain	pain in my left hip
+49218002	Hip pain	pains in my hip
+49218002	Hip pain	sore and stiff hips
+49218002	Hip pain	hip hurt
+49218002	Hip pain	pain around the hipjoints
+228158008	Walking disability	the heel I couldn't walk on very well
+228158008	Walking disability	could not walk
+228158008	Walking disability	Trouble walking
+228158008	Walking disability	difficulty walking
+228158008	Walking disability	could hardly walk or sit
+228158008	Walking disability	comfortably Couldn't walk
+228158008	Walking disability	Walking disability
+228158008	Walking disability	Difficult to walk
+228158008	Walking disability	can hardly walk
+419723007	Mentally dull	feeling in a fog
+419723007	Mentally dull	my head was foggy
+419723007	Mentally dull	in a fog
+419723007	Mentally dull	foggy brain
+419723007	Mentally dull	mentally weaker
+419723007	Mentally dull	like Im in a fog all the time
+419723007	Mentally dull	mental malaise
+63102001	Visual disturbance	visual disturbances
+63102001	Visual disturbance	eyesight problems
+63102001	Visual disturbance	at times felt that I'm going blind
+300954003	Pain in calf	severe pain in left leg
+300954003	Pain in calf	Pain in lower legs
+300954003	Pain in calf	calves are sore and tender to the touch
+300954003	Pain in calf	intense calf pain
+300954003	Pain in calf	Calf Pain
+55300003	Muscle cramp	cramping in back
+55300003	Muscle cramp	cramps
+55300003	Muscle cramp	mild cramping
+55300003	Muscle cramp	muscle crammps
+55300003	Muscle cramp	Cramping
+55300003	Muscle cramp	Severe muscle cramps
+55300003	Muscle cramp	CRAMPS
+55300003	Muscle cramp	Cramps
+55300003	Muscle cramp	cramping feeling
+55300003	Muscle cramp	Muscle cramping
+80449002	Muscle fatigue	muscle fatigue
+80449002	Muscle fatigue	legs began feeling very tired
+80449002	Muscle fatigue	fatigue in arms
+80449002	Muscle fatigue	muscle fatigue in my forearms
+80449002	Muscle fatigue	tiredness in leg
+386807006	Memory impairment	memory failure
+386807006	Memory impairment	memory lapses
+386807006	Memory impairment	problems with memory
+386807006	Memory impairment	impaired memory
+386807006	Memory impairment	MEMORY TROUBLE
+386807006	Memory impairment	memeory problems
+22298006	Myocardial infarction	massive heart attack
+22298006	Myocardial infarction	cardio event
+22298006	Myocardial infarction	mild heart attack
+47933007	Foot pain	pain in their feet
+47933007	Foot pain	My feet feel like I have stone bruises just in front of the heel
+47933007	Foot pain	sore feet
+47933007	Foot pain	feet pains
+47933007	Foot pain	Feet still hurt
+47933007	Foot pain	sore and stiff feet
+47933007	Foot pain	terrible pain in my feet
+56265001	Heart disease	HEART DISEASE
+56265001	Heart disease	coronary problems
+56265001	Heart disease	heart disease
+68962001	Myalgia	bad muscle pains
+68962001	Myalgia	sore
+68962001	Myalgia	leg muscle discomfort
+68962001	Myalgia	Pain in muscles
+68962001	Myalgia	muscles in my chest started aching
+68962001	Myalgia	muscle and joint pain
+68962001	Myalgia	HORRIBLE muscle pains
+68962001	Myalgia	myalgia
+68962001	Myalgia	muscle ache
+68962001	Myalgia	debilitating muscle pain in my back
+68962001	Myalgia	terrible muscle pain
+68962001	Myalgia	muscle pains
+68962001	Myalgia	Severe muscle pain
+68962001	Myalgia	overall muscle soreness
+68962001	Myalgia	Sore muscle
+68962001	Myalgia	severe muscle aces
+68962001	Myalgia	MUSCLES ACHED
+68962001	Myalgia	muscle aches and pain
+250084002	Cramp in calf	cramping in calf
+250084002	Cramp in calf	Cramp in calf
+250084002	Cramp in calf	cramps in my left calf
+67849003	Excruciating pain	pain was unbearable
+67849003	Excruciating pain	Excruciating pain
+67849003	Excruciating pain	excrutiating pain
+78514002	Thigh pain	THIGH PAIN
+78514002	Thigh pain	Pain in both quads (above knee, back of leg)
+78514002	Thigh pain	pain in my left thigh
+162059005	Upset stomach	Stomach distress
+162059005	Upset stomach	Stomach irritation
+162059005	Upset stomach	seriously upset my stomach
+162059005	Upset stomach	sick to stomach
+404640003	Dizziness	Dizzieness
+404640003	Dizziness	slightly dizzy virtually all the time
+404640003	Dizziness	DIZZINESS
+404640003	Dizziness	Dizzy spells
+387603000	Impairment of balance	Off balanced-ness
+387603000	Impairment of balance	very off balance
+387603000	Impairment of balance	balance off
+387603000	Impairment of balance	,lack of balance and cooridination
+77692006	Hypersomnia	sleep alot
+77692006	Hypersomnia	Constant sleepiness
+77692006	Hypersomnia	Hypersomnia
+247640008	Unable to think clearly	fuzzy headed
+247640008	Unable to think clearly	not be able to process thoughts
+247640008	Unable to think clearly	Unable to think clearly
+88092000	Muscle atrophy	muscle loss
+88092000	Muscle atrophy	wasting of muscles
+88092000	Muscle atrophy	muscle atrophy Arms
+88092000	Muscle atrophy	muscle degenerating
+88092000	Muscle atrophy	lost a lot of muscle and replacedit with fat
+88092000	Muscle atrophy	losing muscle
+88092000	Muscle atrophy	noticible loss of muscle structure
+279039007	Low back pain	Very painful muscle aches in lower back
+279039007	Low back pain	tenderness in the lower back
+279039007	Low back pain	lower back ache
+279039007	Low back pain	lower back pain
+60862001	Tinnitus	tinnitus in my left ear
+60862001	Tinnitus	ringing in the ears
+60862001	Tinnitus	tinititis
+161891005	Backache	pains in my back
+161891005	Backache	muscular pain in the back
+161891005	Backache	burning back pain
+161891005	Backache	pain in back
+161891005	Backache	constant back pain
+161891005	Backache	pain in the back
+161891005	Backache	back ache
+77435011000036104	ascorbic acid	VitC
+77435011000036104	ascorbic acid	vitamin c
+77435011000036104	ascorbic acid	vitamin C crystals
+248274002	Lack of energy	lowering of energy
+248274002	Lack of energy	low energy
+248274002	Lack of energy	no energy
+60032008	Unable to concentrate	inability to concentrate
+60032008	Unable to concentrate	not concentrating well
+60032008	Unable to concentrate	lack of concentration
+60032008	Unable to concentrate	unable to focus
+51197009	Stomach cramps	Stomach cramps
+51197009	Stomach cramps	sporadic lower abdominal cramping
+51197009	Stomach cramps	pain with stomach cramps
+102556003	Pain in upper limb	sore arms
+102556003	Pain in upper limb	arm pain
+102556003	Pain in upper limb	Pain in upper limb
+102556003	Pain in upper limb	Pain in arms
+282145008	Unable to walk	could not walk for three weeks
+282145008	Unable to walk	I simply could not walk
+282145008	Unable to walk	inability to walk
+425423002	Pain provoked by movement	pain when I sit down or stand from a sitting position
+425423002	Pain provoked by movement	Pain provoked by movement
+425423002	Pain provoked by movement	hurts to get out of a chair
+45326000	Shoulder pain	Soreness in shoulder
+45326000	Shoulder pain	aching pain across my shoulders
+45326000	Shoulder pain	Terrible pain in shoulders
+45326000	Shoulder pain	left shoulder upper arm pain
+45326000	Shoulder pain	Pain in the shoulders
+45326000	Shoulder pain	pain in the back in shoulder muscles
+45326000	Shoulder pain	Pain in shoulders
+309521004	Numbness of hand	Hands numb
+309521004	Numbness of hand	prickling,numbness in hand
+309521004	Numbness of hand	numbness hands
+54981004	Charleyhorse	Terrible charlie horses
+54981004	Charleyhorse	Charley horses in the abdomen
+54981004	Charleyhorse	charley horses in legs
+54981004	Charleyhorse	charley horses
+224960004	Tired	drained and tired
+224960004	Tired	VERY TIRED
+224960004	Tired	very tired
+224960004	Tired	Tired
+422587007	Nausea	nausea
+422587007	Nausea	nausia
+422587007	Nausea	nauseated
+29857009	Chest pain	pain in chest
+29857009	Chest pain	Chest pain
+29857009	Chest pain	Chest pains
+8357008	Reduced libido	Low Libido
+8357008	Reduced libido	taking one's appetite for sex away
+8357008	Reduced libido	loss of libido
+8357008	Reduced libido	loss of sex drv
+55929007	Feeling irritable	Feeling irritable
+55929007	Feeling irritable	Irritable
+55929007	Feeling irritable	very grouchy
+248255005	Cannot sleep at all	not sleeping
+248255005	Cannot sleep at all	could not sleep
+248255005	Cannot sleep at all	Couldn't sleep
+162076009	Excessive upper gastrointestinal gas	generalized skin discoloration
+162076009	Excessive upper gastrointestinal gas	gassy
+162076009	Excessive upper gastrointestinal gas	general feeling of weakness
+162076009	Excessive upper gastrointestinal gas	generaly feeling unwell like walking in a daze (Zombie like)
+162076009	Excessive upper gastrointestinal gas	constant gas
+162076009	Excessive upper gastrointestinal gas	extreme gas
+162076009	Excessive upper gastrointestinal gas	gas
+162076009	Excessive upper gastrointestinal gas	General weakness in my hands
+162076009	Excessive upper gastrointestinal gas	gastric bleed
+162076009	Excessive upper gastrointestinal gas	gass
+162076009	Excessive upper gastrointestinal gas	General weakness in my calves
+162076009	Excessive upper gastrointestinal gas	stomach gas
+81680008	Neck pain	Neck pain
+271807003	Rash	rash on upper left torso
+271807003	Rash	Rashes
+271807003	Rash	Rash
+131148009	Bleeding	Bleeding
+131148009	Bleeding	bleeding
+131148009	Bleeding	bleed
+3877011000036101	Lipitor	Lipitor (atorvastatin)
+3877011000036101	Lipitor	lipitor
+3877011000036101	Lipitor	liptor
+3877011000036101	Lipitor	Lipitor's
+367391008	Malaise	Malaise
+367391008	Malaise	GENERAL MALAISE
+367391008	Malaise	feel pretty lousy
+35489007	Depression	Depression
+35489007	Depression	growing depression
+35489007	Depression	depresion
+35489007	Depression	very serious depression
+62507009	Pins and needles	tingling in my fingers
+62507009	Pins and needles	in arms Tingling
+62507009	Pins and needles	tingling in feet
+62507009	Pins and needles	tingling in hands
+62507009	Pins and needles	Constant pins and needles in the ball of the foot
+62507009	Pins and needles	tingling in the scalp
+62507009	Pins and needles	weird toe tingling
+62507009	Pins and needles	tingling in arms
+62507009	Pins and needles	pins and needles feeling
+62507009	Pins and needles	tingling sensation in the back of my neck
+246636008	Blurred vision - hazy	blurred vision
+246636008	Blurred vision - hazy	fuzzy vision
+246636008	Blurred vision - hazy	eyes get blury
+246636008	Blurred vision - hazy	Blured vision
+246636008	Blurred vision - hazy	blurring eyesight
+399153001	Vertigo	severe vertigo
+399153001	Vertigo	Vertigo
+399153001	Vertigo	room spinning
+301345002	Difficulty sleeping	comfortably Couldn't sleep
+301345002	Difficulty sleeping	Problems sleeping
+301345002	Difficulty sleeping	rarely sleep well
+301345002	Difficulty sleeping	hard to sleep
+3723001	Arthritis	arthristis
+3723001	Arthritis	arthritus
+3723001	Arthritis	artritic
+247373008	Ankle pain	pain in ankle
+247373008	Ankle pain	Pain in ankles
+247373008	Ankle pain	ankles started aching
+278040002	Loss of hair	hair losss
+278040002	Loss of hair	HAIR FALLING OUT
+278040002	Loss of hair	hair fell out
+278040002	Loss of hair	Hair thinning
+277521002	Loss of motivation	loss the will to do anything
+277521002	Loss of motivation	loss of interest in life
+277521002	Loss of motivation	lack of motivation
+102551008	Cramp in foot	foot cramps
+102551008	Cramp in foot	cramps in my feet
+102551008	Cramp in foot	cramping in toes
+193462001	Insomnia	Mild insomnia
+193462001	Insomnia	insomnia
+193462001	Insomnia	sleepless nites
+193462001	Insomnia	sleepless nights
+95891005	Influenza-like illness	fluey feelings in upper arms, legs
+95891005	Influenza-like illness	flu-symptoms
+95891005	Influenza-like illness	flu-like syptoms
+95891005	Influenza-like illness	fluey feelings
+95891005	Influenza-like illness	flu-like symtoms
+288231001	Myalgia/myositis - lower leg	Very painful muscle aches in calves
+288231001	Myalgia/myositis - lower leg	muscle pain calf area
+288231001	Myalgia/myositis - lower leg	muscle pain in the legs
+288231001	Myalgia/myositis - lower leg	pain in leg muscles
+449917004	Cramp in lower limb	leg and foot cramping
+449917004	Cramp in lower limb	leg/foot cramps
+449917004	Cramp in lower limb	Cramp in lower limb
+449917004	Cramp in lower limb	Leg cramping
+449917004	Cramp in lower limb	muscle cramps in legs
+449917004	Cramp in lower limb	severe cramping in my legs
+449917004	Cramp in lower limb	leg and foot cramps
+82991003	Generalised aches and pains	hert from head to my toe
+82991003	Generalised aches and pains	EVERYTHING ON MY BODY HURTS
+82991003	Generalised aches and pains	everything hurts
+82991003	Generalised aches and pains	pains all over body
+82991003	Generalised aches and pains	Generalised aches and pains
